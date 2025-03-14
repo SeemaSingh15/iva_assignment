@@ -1,5 +1,4 @@
-Here's the README.md content without the images, ready for you to copy and paste:
-markdownCopy# 🖼️ Image and Video Analytics (IVA) Assignment
+ Image and Video Analytics (IVA) Assignment Part 2
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
